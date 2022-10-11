@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tin-clone/static/css/main.0f5cb1c9.css",
+    "main.js": "/tin-clone/static/js/main.94465dc6.js",
+    "index.html": "/tin-clone/index.html",
+    "main.0f5cb1c9.css.map": "/tin-clone/static/css/main.0f5cb1c9.css.map",
+    "main.94465dc6.js.map": "/tin-clone/static/js/main.94465dc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f5cb1c9.css",
+    "static/js/main.94465dc6.js"
+  ]
+}
